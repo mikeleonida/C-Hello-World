@@ -13,14 +13,14 @@ bool write_to_file(string fileOut, string output) {
 	fout << output;
 	fout.close();
 
-	cout << "Numbers written to file";
+	cout << "Numbers written to file\n";
 
 	return true;
 }
 
 
 int main() {
-	bool result = write_to_file("read_file.txt", "27 33 2 7");
+	// bool result = write_to_file("read_file.txt", "27 33 2 7");
 
 	ifstream fin("read_file.txt");
 
