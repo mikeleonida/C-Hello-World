@@ -19,7 +19,7 @@ bool write_to_file(string fileOut, string output) {
 }
 
 
-int main() {
+int main8() {
 	// bool result = write_to_file("read_file.txt", "27 33 2 7");
 
 	ifstream fin("read_file.txt");

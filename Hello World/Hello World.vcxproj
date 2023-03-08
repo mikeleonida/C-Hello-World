@@ -131,7 +131,10 @@
     <ClInclude Include="HelloWorld.h" />
     <ClInclude Include="IOExample.h" />
     <ClInclude Include="MapPractice.h" />
+    <ClInclude Include="MemoryAllocAndDealloc.h" />
     <ClInclude Include="PassByRef.h" />
+    <ClInclude Include="PointersAndFunctions.h" />
+    <ClInclude Include="PointersPratice.h" />
     <ClInclude Include="StackPractice.h" />
     <ClInclude Include="Struct.h" />
     <ClInclude Include="Templates.h" />
@@ -141,7 +144,10 @@
     <ClCompile Include="HelloWorld.cpp" />
     <ClCompile Include="IOExample.cpp" />
     <ClCompile Include="MapPractice.cpp" />
+    <ClCompile Include="MemoryAllocAndDealloc.cpp" />
     <ClCompile Include="PassByRef.cpp" />
+    <ClCompile Include="PointersAndFunctions.cpp" />
+    <ClCompile Include="PointersPratice.cpp" />
     <ClCompile Include="StackPractice.cpp" />
     <ClCompile Include="Struct.cpp" />
     <ClCompile Include="Templates.cpp" />

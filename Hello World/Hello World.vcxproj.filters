@@ -39,6 +39,15 @@
     <ClInclude Include="IOExample.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="PointersPratice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PointersAndFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryAllocAndDealloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="HelloWorld.cpp">
@@ -63,6 +72,15 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="IOExample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointersPratice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PointersAndFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryAllocAndDealloc.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
